@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="67ac6ac5-f7ff-4c9b-b4d2-31469bc9e2f6" name="Default Changelist" comment="搭建好Service框架">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="67ac6ac5-f7ff-4c9b-b4d2-31469bc9e2f6" name="Default Changelist" comment="搭建好Service框架" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -127,7 +125,7 @@
       <option name="presentableId" value="Default" />
       <updated>1666137598477</updated>
       <workItem from="1666137599637" duration="10730000" />
-      <workItem from="1666181061686" duration="212000" />
+      <workItem from="1666181061686" duration="993000" />
     </task>
     <task id="LOCAL-00001" summary="搭建好Service框架">
       <created>1666177769428</created>
@@ -136,11 +134,29 @@
       <option name="project" value="LOCAL" />
       <updated>1666177769429</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="搭建好Service框架">
+      <created>1666181422390</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1666181422390</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="搭建好Service框架" />
