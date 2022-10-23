@@ -1,6 +1,6 @@
 package com.bao.service.solo;
 
-import com.bao.entity.bo.entity.HeadLine;
+import com.bao.entity.bo.HeadLine;
 import com.bao.entity.dto.Result;
 
 import java.util.List;

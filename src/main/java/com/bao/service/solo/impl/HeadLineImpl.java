@@ -1,11 +1,13 @@
 package com.bao.service.solo.impl;
 
-import com.bao.entity.bo.entity.HeadLine;
+import com.bao.entity.bo.HeadLine;
 import com.bao.entity.dto.Result;
 import com.bao.service.solo.HeadLineService;
+import org.simpleframework.core.annotation.Service;
 
 import java.util.List;
 
+@Service
 public class HeadLineImpl implements HeadLineService {
 
     @Override

@@ -1,6 +1,6 @@
 package com.bao.service.solo;
 
-import com.bao.entity.bo.entity.ShopCategory;
+import com.bao.entity.bo.ShopCategory;
 import com.bao.entity.dto.Result;
 
 import java.util.List;

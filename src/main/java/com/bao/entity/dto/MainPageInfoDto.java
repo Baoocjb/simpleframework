@@ -1,7 +1,7 @@
 package com.bao.entity.dto;
 
-import com.bao.entity.bo.entity.HeadLine;
-import com.bao.entity.bo.entity.ShopCategory;
+import com.bao.entity.bo.HeadLine;
+import com.bao.entity.bo.ShopCategory;
 import lombok.Data;
 
 import java.util.List;

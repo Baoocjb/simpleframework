@@ -1,15 +1,17 @@
 package com.bao.service.combine.impl;
 
-import com.bao.entity.bo.entity.HeadLine;
-import com.bao.entity.bo.entity.ShopCategory;
+import com.bao.entity.bo.HeadLine;
+import com.bao.entity.bo.ShopCategory;
 import com.bao.entity.dto.MainPageInfoDto;
 import com.bao.entity.dto.Result;
 import com.bao.service.combine.HeadLineShopCategoryCombineService;
 import com.bao.service.solo.HeadLineService;
 import com.bao.service.solo.ShopCategoryService;
+import org.simpleframework.core.annotation.Service;
 
 import java.util.List;
 
+@Service
 public class HeadLineShopCategoryCombineServiceImpl implements HeadLineShopCategoryCombineService {
     private HeadLineService headLineService;
     private ShopCategoryService shopCategoryService;
